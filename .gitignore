@@ -1,7 +1,6 @@
 # Build output
-main.js
 *.js.map
-
+dist/
 # Development environment
 node_modules/
 .DS_Store
