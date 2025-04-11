@@ -1,0 +1,42 @@
+# Build output
+main.js
+*.js.map
+
+# Development environment
+node_modules/
+.DS_Store
+.vscode/
+.idea/
+
+# Obsidian specific
+.obsidian/
+
+# TypeScript build info
+*.tsbuildinfo
+
+# npm
+npm-debug.log*
+.npm
+package-lock.json
+
+# Test coverage
+coverage/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Temporary files
+*.log
+.tmp/
+temp/
+
+# Operating System
+Thumbs.db
+Desktop.ini
+
+# Optional: backup files
+*.bak
+*.backup
+*~

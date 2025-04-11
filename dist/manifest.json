@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-ragflow-sync",
+	"name": "RAGFlow Sync",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Sync Obsidian notes to RAGFlow knowledge base",
+	"author": "Your Name",
+	"authorUrl": "https://github.com/yourusername",
+	"isDesktopOnly": false
+}

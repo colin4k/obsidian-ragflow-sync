@@ -1,0 +1,60 @@
+/* RAGFlow Sync Plugin Styles */
+
+.ragflow-sync-status {
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.ragflow-sync-status.success {
+    background-color: rgba(0, 255, 0, 0.1);
+    border: 1px solid rgba(0, 255, 0, 0.3);
+}
+
+.ragflow-sync-status.error {
+    background-color: rgba(255, 0, 0, 0.1);
+    border: 1px solid rgba(255, 0, 0, 0.3);
+}
+
+.ragflow-sync-status.info {
+    background-color: rgba(0, 0, 255, 0.1);
+    border: 1px solid rgba(0, 0, 255, 0.3);
+}
+
+.ragflow-sync-progress {
+    margin-top: 10px;
+    width: 100%;
+    height: 10px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.ragflow-sync-progress-bar {
+    height: 100%;
+    background-color: #4caf50;
+    width: 0%;
+    transition: width 0.3s ease;
+}
+
+.ragflow-button-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.ragflow-button-container button {
+    margin-right: 10px;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.ragflow-button-container button:last-child {
+    margin-right: 0;
+}
+
+.ragflow-button-container button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
