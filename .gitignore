@@ -1,6 +1,5 @@
 # Build output
 *.js.map
-dist/
 # Development environment
 node_modules/
 .DS_Store
