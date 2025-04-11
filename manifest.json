@@ -4,7 +4,7 @@
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "Sync Obsidian notes to RAGFlow knowledge base",
-	"author": "Your Name",
-	"authorUrl": "https://github.com/yourusername",
+	"author": "Colin Zhu",
+	"authorUrl": "https://github.com/colin4k",
 	"isDesktopOnly": false
 }
