@@ -1,9 +1,9 @@
 {
-	"id": "obsidian-ragflow-sync",
+	"id": "ragflow-sync",
 	"name": "RAGFlow Sync",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Sync Obsidian notes to RAGFlow knowledge base",
+	"description": "Sync notes to RAGFlow knowledge base",
 	"author": "Colin Zhu",
 	"authorUrl": "https://github.com/colin4k",
 	"isDesktopOnly": false
